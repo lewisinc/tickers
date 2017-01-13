@@ -1,0 +1,17 @@
+[package]
+name = "tickers"
+version = "0.1.0"
+authors = ["lewisinc <davidlewis@icloud.com>"]
+description = "Simple SDL program to play typing sounds when you type."
+documentation = "https://github.com/lewisinc/tickers"
+homepage = "https://github.com/lewisinc/tickers"
+repository = "https://github.com/lewisinc/tickers"
+
+readme = "README.md"
+
+keywords = ["typewriter", "keyboard", "sounds", "fun"]
+
+licence = "GPL-3.0"
+license-file = "LICENSE"
+
+[dependencies]
